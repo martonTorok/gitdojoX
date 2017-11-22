@@ -12,3 +12,5 @@ def joke():
 
 def shout():
     print("I DONT KNOW, WHY I'M SHOUTING!!!!!!!!!!!!")
+    print('ALLAHU AKBAR!')
+
