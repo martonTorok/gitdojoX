@@ -4,6 +4,7 @@ def add(x, y):
 
 def introduce():
     print("Hello, I'm Gittie!")
+    print('I am also vegan')
 
 
 def joke():
