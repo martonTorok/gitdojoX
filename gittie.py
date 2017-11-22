@@ -3,7 +3,7 @@ def add(x, y):
 
 
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm Gittie! I used to Git up early, but now I barely Git out of bed.")
 
 
 def joke():
